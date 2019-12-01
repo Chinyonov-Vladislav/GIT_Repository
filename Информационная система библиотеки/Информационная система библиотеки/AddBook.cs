@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Информационная_система_библиотеки
 {
+    // окно "Добавление книги"
     public partial class AddBook : Form
     {
         public AddBook()

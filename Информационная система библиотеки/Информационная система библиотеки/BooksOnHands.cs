@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Информационная_система_библиотеки
 {
+    // окно "Книги на руках"
     public partial class BooksOnHands : Form
     {
         public BooksOnHands()

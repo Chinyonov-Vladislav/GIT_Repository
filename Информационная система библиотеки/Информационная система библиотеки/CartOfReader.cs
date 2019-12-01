@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Информационная_система_библиотеки
 {
+    // окно "Карточка читателя"
     public partial class CartOfReader : Form
     {
         public CartOfReader()

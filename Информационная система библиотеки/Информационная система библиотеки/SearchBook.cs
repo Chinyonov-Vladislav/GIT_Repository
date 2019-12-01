@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Информационная_система_библиотеки
 {
+    // окно "Поиск книги"
     public partial class SearchBook : Form
     {
         public SearchBook()

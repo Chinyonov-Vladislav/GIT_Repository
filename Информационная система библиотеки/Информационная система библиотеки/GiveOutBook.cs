@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Информационная_система_библиотеки
 {
+    // окно "Выдача книги"
     public partial class GiveOutBook : Form
     {
         public GiveOutBook()

@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Информационная_система_библиотеки
 {
+    // окно "Главное окно пользователя"
     public partial class MainFormUser : Form
     {
         public MainFormUser()

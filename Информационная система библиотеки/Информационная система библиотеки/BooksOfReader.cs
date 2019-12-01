@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Информационная_система_библиотеки
 {
+    // окно "Книги читателя"
     public partial class BooksOfReader : Form
     {
         public BooksOfReader()

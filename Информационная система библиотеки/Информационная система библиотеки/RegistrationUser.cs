@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Информационная_система_библиотеки
 {
+    // окно "Регистрация пользователя"
     public partial class RegistrationUser : Form
     {
         public RegistrationUser()

@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Информационная_система_библиотеки
 {
+    // окно "Вход в систему"
     public partial class LogOut : Form
     {
         string login = "admin";

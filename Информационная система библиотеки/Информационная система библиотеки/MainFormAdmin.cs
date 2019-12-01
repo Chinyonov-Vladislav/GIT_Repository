@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Информационная_система_библиотеки
 {
+    // окно "Главное окно администратора"
     public partial class MainFormAdmin : Form
     {
         public MainFormAdmin()
